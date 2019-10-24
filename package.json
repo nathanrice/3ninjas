@@ -1,0 +1,22 @@
+{
+  "name": "Easy Writer",
+  "description": "A simple custom Genesis theme.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nathanrice/easyrider"
+  },
+  "dependencies": {},
+  "devDependencies": {
+  },
+  "theme": {
+    "name": "Easy Writer",
+    "uri": "https://github.com/nathanrice/easywriter",
+    "description": "A simple custom Genesis theme.",
+    "author": "Nathan Rice",
+    "authoruri": "https://nathanrice.me/",
+    "version": "2.0.2",
+    "license": "GPL-2.0+",
+    "licenseuri": "http://www.gnu.org/licenses/gpl-2.0.html",
+    "textdomain": "easywriter"
+  }
+}
