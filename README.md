@@ -1,1 +1,1 @@
-# 3ninjas
+# Easy Rider Theme
